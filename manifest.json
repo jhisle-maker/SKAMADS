@@ -4,7 +4,7 @@
     "description": "Are you tired of people ruining your fun on the web? Buy this for free"
     "permissons": ["webRequest","webRequestBlocking","<all_urls>"]
     "background": {
-        "scripts": ["background.js"]
+        "scripts": ["Backsmack.js"]
     },
     "icons": {
         "16": "icons/logo_16x16.png",
